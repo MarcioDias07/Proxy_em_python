@@ -1,0 +1,16 @@
+
+
+Bloqueado: xvideos.com, Ip  e porta do cliente: ('127.0.0.1', 41326)-> horario:0h:31m:1s Data: 2019-12-08
+Bloqueado: youtube.com, Ip  e porta do cliente: ('127.0.0.1', 41328)-> horario:0h:31m:17s Data: 2019-12-08
+Bloqueado: facebook.com, Ip  e porta do cliente: ('127.0.0.1', 41336)-> horario:0h:31m:54s Data: 2019-12-08
+Bloqueado: xvideos.com, Ip  e porta do cliente: ('127.0.0.1', 41712)-> horario:1h:29m:15s Data: 2019-12-08
+Bloqueado: facebook.com, Ip  e porta do cliente: ('127.0.0.1', 34736)-> horario:14h:5m:14s Data: 2019-12-09
+Bloqueado: facebook.com, Ip  e porta do cliente: ('127.0.0.1', 34796)-> horario:14h:33m:40s Data: 2019-12-09
+Bloqueado: facebook.com, Ip  e porta do cliente: ('127.0.0.1', 34800)-> horario:14h:38m:11s Data: 2019-12-09
+Bloqueado: xvideos.com, Ip  e porta do cliente: ('127.0.0.1', 34806)-> horario:14h:40m:6s Data: 2019-12-09
+Bloqueado: facebook.com, Ip  e porta do cliente: ('127.0.0.1', 34816)-> horario:14h:42m:43s Data: 2019-12-09
+Bloqueado: xvideos.com, Ip  e porta do cliente: ('127.0.0.1', 34850)-> horario:14h:47m:31s Data: 2019-12-09
+Bloqueado: xvideos.com, Ip  e porta do cliente: ('127.0.0.1', 34862)-> horario:14h:52m:15s Data: 2019-12-09
+Bloqueado: xvideos.com, Ip  e porta do cliente: ('127.0.0.1', 34868)-> horario:14h:53m:11s Data: 2019-12-09
+Bloqueado: xvideos.com, Ip  e porta do cliente: ('127.0.0.1', 34882)-> horario:14h:55m:58s Data: 2019-12-09
+Bloqueado: xvideos.com, Ip  e porta do cliente: ('127.0.0.1', 34890)-> horario:14h:57m:36s Data: 2019-12-09

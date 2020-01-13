@@ -1,0 +1,11 @@
+integrantes: MARCIO DIAS RODRIGUES DA SILV, JAMILLY VITORYA DA SILVA BARBOSA, GABRIEL DOS SANTOS TEIXEIRA
+
+
+1. Abra o arquivo server.py em um editor de texto e mude o valor da variável chamada  host na linha 5, troque o indereço ip contido nela pelo ip da sua máquina 
+2. Depois abra o arquivo proxy.py e altere a linha um dos parâmetros da função serv.connect(host, port)  na linha 69 (sem sacanagem (¬_¬) ) e novamente substitua o endereço ip lá presente pelo da sua máquina, a porta permanece igual
+3. Execute o arquivo proxy.py em um terminal (de preferência especifique que está usando  a versão 2.7 )
+4. Execute o arquivo server.py em um outro terminal (de preferência especifique que está usando a versão 2.7 )
+5. Em um terceiro terminal execute o arquivo client1.py em um terminal (de preferência especifique que está usando  a versão 2.7 ), depois q fizer isso, será requirido que informe um endereço id, digite o endereço ip contido na váriavel chamada host, localizada na linha 9 do arquivo proxy.py, depois você poderá mandar uma mensagem pro server
+6. O server irá responder, caso a mensgem não seja bloqueada, a lista de dominios bloqueados está na linha 14 do arquivo proxy.py  
+
+obs: O arquivo 'log.txt' contém o log de entrada da conexão, o arquivo   'bloqueios.txt' contém um log das mensagens bloqueadas
